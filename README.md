@@ -28,7 +28,7 @@
 
 ### Инструкция по запуску
 
-1.  Скачайте последнюю версию приложения из раздела [Releases](https://github.com/ВашUsername/ВашРепозиторий/releases).
+1.  Скачайте последнюю версию приложения из раздела [Releases](https://github.com/HeptaOnto/OCR-DPS-Monitor-Release/releases).
 2.  Распакуйте архив в удобную для вас папку.
 3.  Запустите файл `OCR_DPS_Monitor.exe`.
 
