@@ -1,0 +1,36 @@
+gitignore
+## C# ##
+## https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+.nuget/
+*.nupkg
+nuget.exe
+
+# Build results of using Costura
+costura*.dll
+costura*.pdb
